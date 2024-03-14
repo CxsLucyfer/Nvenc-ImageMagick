@@ -1,5 +1,5 @@
 # syntax=docker/dockerfile:1
-FROM debian:10.10-slim
+FROM debian:buster-20240311-slim
 #
 MAINTAINER allan.nava@hiway.media
 #AS builder
