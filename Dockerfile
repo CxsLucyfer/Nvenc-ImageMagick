@@ -1,5 +1,5 @@
 # syntax=docker/dockerfile:1
-FROM debian:10.10-slim
+FROM debian:10-slim
 #
 MAINTAINER allan.nava@hiway.media
 #AS builder
